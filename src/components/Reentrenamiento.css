@@ -1,0 +1,55 @@
+.reentrenamiento-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px;
+  }
+  
+  .card {
+    background-color: #f3f7ff;
+    border: 2px solid #3f8efc;
+    border-radius: 10px;
+    padding: 20px 30px;
+    margin: 15px 0;
+    width: 90%;
+    max-width: 700px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .retrain-btn {
+    width: 100%;
+    padding: 10px;
+    background-color: #4d94ff;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-weight: bold;
+
+  }
+  
+  .metricas-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    background-color: #e6f0ff;
+  }
+  
+  .metricas-table th,
+  .metricas-table td {
+    border: 1px solid #b3d1ff;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .metricas-table th {
+    background-color: #1b3d82;
+    color: white;
+  }
+
+  .metricas-descripcion {
+    width: 100%;
+  }
+

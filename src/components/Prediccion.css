@@ -1,0 +1,64 @@
+.titulo_prediccion {
+    color: #70bdcd;
+    font-size: 40px;
+    font-weight: bold;
+}
+  .metricas-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    background-color: #e6f0ff;
+  }
+  
+  .metricas-table th,
+  .metricas-table td {
+    border: 1px solid #b3d1ff;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .metricas-table th {
+    background-color: #1f499c;
+    color: white;
+  }
+
+.predict-button {
+    background-color: #4d94ff;
+    color: white;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blue-result-table {
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 10px;
+  }
+  
+  .blue-result-table th {
+    background-color: #70bdcd;
+    color: white;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .blue-result-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+
+
+  .label-form {
+    font-size: 16px;
+    color: #000000;
+    margin-bottom: 5px;
+  }
+  

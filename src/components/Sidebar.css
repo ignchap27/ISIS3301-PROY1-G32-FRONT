@@ -1,0 +1,35 @@
+.sidebar-wrapper {
+    padding-left: 20px; 
+  }
+  
+  .custom-sidebar {
+    height: 89vh;
+    width: 210px;
+    background-color: #5d9eff;
+    color: white;
+    border-radius: 10px;
+  }
+  
+  .nav-title {
+    color: white;
+    font-weight: bold;
+    padding: 10px 16px;
+  }
+  
+  .c-nav-item {
+    color: white;
+  }
+
+  
+  .active-item {
+    background-color: rgba(255, 255, 255, 0.25);
+    border-radius: 5px;
+  }
+
+  .metricas-titulo{
+    color: #70bdcd;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+
